@@ -21,4 +21,6 @@ After successfully installing the packages, start the program with:
 python listener.py
 ```
 
-Press `ctrl+alt+s` will enter picking state where you can get the color in hex from anywhere on your screen by a mouse click. The result will be automatically saved to the system clipboard.
+Press `ctrl+alt+s` will enter picking state where you can get the color in hex from anywhere on your screen by a mouse click. The result will be automatically saved to the system clipboard. And you will be able to see the popup window showing the color you pick.
+
+
